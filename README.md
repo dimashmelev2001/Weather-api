@@ -1,2 +1,2 @@
-# Weather-api
-Kraulin D.K.
+#  Weather-api
+Kraulin Denis Konstantinovich
