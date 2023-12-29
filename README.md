@@ -1,2 +1,2 @@
-#  Weather-api
-Kraulin Denis Konstantinovich
+# README
+Kraulin D.K.
